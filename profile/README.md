@@ -2,4 +2,4 @@
 
 We build software as a hobby.
 
-We are currently working on: TOP SECRET PROJECT
+We are currently working on: The Daily RSS
